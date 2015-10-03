@@ -11,7 +11,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.runners.MockitoJUnitRunner;
 import org.springframework.test.web.servlet.MockMvc;
+
 import com.mooc.controller.HomeController;
+
 
 @RunWith(MockitoJUnitRunner.class)
 public class TestHomeController {

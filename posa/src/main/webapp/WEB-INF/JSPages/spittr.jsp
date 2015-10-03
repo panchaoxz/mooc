@@ -12,5 +12,6 @@
 
 <a href="<c:url value="/spittles?max=238900&count=70" />">Spittles</a>
 <a href ="<c:url value="/spitter/register" />">Register</a>
+<a href ="<c:url value="/spittles/25" />">Spittle</a>
 </body>
 </html>
